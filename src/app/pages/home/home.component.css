@@ -8,3 +8,7 @@
 	align-items: baseline;
 	flex-wrap: wrap;
 }
+
+.home__container app-card{
+	padding: 15px;
+}

@@ -1,0 +1,47 @@
+export const dataFake = [
+  {
+    "id": 1,
+    "name": "BATTLEFIELD 1",
+    "label": "DIGITAL",
+    "type": "DIGITAL | PS4",
+    "category": ['action', 'war'],
+    "image": "assets/bt-1.jpg",
+    "price": "R$ 129,99",
+  },
+  {
+    "id": 2,
+    "name": "BATTLEFIELD 4",
+    "label": "EXCLUSIVE",
+    "type": "DISC | PS5",
+    "category": ['action', 'war'],
+    "image": "assets/bt-4.jpg",
+    "price": "R$ 269,99",
+  },
+  {
+    "id": 3,
+    "name": "ASSASSIN'S CREED",
+    "label": "BEST OF YEAR",
+    "type": "DIGITAL | PS5",
+    "category": ["action"],
+    "image": "assets/ac-cover.jpg",
+    "price": "R$ 199,99",
+  },
+  {
+    "id": 4,
+    "name": "BATTLEFIELD HARDLINE",
+    "label": "NEW",
+    "type": "DIGITAL | PS3 PS4 PS5",
+    "category": ['action', 'war'],
+    "image": "assets/bt-hardline.jpg",
+    "price": "R$ 369,99",
+  },
+  {
+    "id": 5,
+    "name": "BATTLEFIELD BAD COMPANY 2",
+    "label": "NEW",
+    "type": "DIGITAL | PS4 PS5",
+    "category": ['action', 'war'],
+    "image": "assets/bt-bad-company-2.jpg",
+    "price": "R$ 399,99",
+  }
+]
